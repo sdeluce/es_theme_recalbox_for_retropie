@@ -1,0 +1,53 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<image name="background" extra="true">
+		</image>
+		<image name="band1" extra="true">
+			<color>CB2027</color>
+		</image>
+		<image name="band2" extra="true">
+			<color>991A37</color>
+		</image>
+		<image name="band3" extra="true">
+			<color>FFCD05</color>
+		</image>
+		<image name="band4" extra="true">
+			<color>669A40</color>
+		</image>
+
+		<text name="info1" extra="true">
+			<text>The configuration editor allows a user to edit the configurations</text>
+			<pos>0.38 0.72</pos>
+		</text>
+		<text name="info2" extra="true">
+			<text>for RetroPie and Retroarch from a gui interface.</text>
+			<pos>0.38 0.74</pos>
+		</text>
+		<text name="info3" extra="true">
+			<text>Many common settings are set up so that a user can change</text>
+			<pos>0.38 0.76</pos>
+		</text>
+		<text name="info4" extra="true">
+			<text>the settings with a gamepad.</text>
+			<pos>0.38 0.78</pos>
+		</text>
+
+	</view>
+
+	<view name="basic, detailed">
+		<image name="band1" extra="true">
+			<color>CB2027</color>
+		</image>
+		<image name="band2" extra="true">
+			<color>991A37</color>
+		</image>
+		<image name="band3" extra="true">
+			<color>FFCD05</color>
+		</image>
+		<image name="band4" extra="true">
+			<color>669A40</color>
+		</image>
+	</view>
+</theme>
