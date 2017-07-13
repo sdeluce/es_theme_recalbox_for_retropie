@@ -17,10 +17,7 @@
 			<color>4C504E</color>
 		</image>
 		<text name="info7" extra="true">
-			<text>Find all your favorites games in a single system.
-Every time you mark a game as favorites in a system, you will find it here.
-
-Enjoy !</text>
+			<text></text>
 			<pos>0.38 0.72</pos>
 			<size>0.40 0.20</size>
 			<lineSpacing>1.1</lineSpacing>
