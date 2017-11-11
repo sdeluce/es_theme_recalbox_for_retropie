@@ -1,0 +1,53 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<image name="background" extra="true">
+		</image>
+		<image name="band1" extra="true">
+			<color>762F38</color>
+		</image>
+		<image name="band2" extra="true">
+			<color>CBCFD0</color>
+		</image>
+		<image name="band3" extra="true">
+			<color>BD2E39</color>
+		</image>
+		<image name="band4" extra="true">
+			<color>1A1718</color>
+		</image>
+		<text name="info1" extra="true">
+			<text>Manufacturer : Nintendo</text>
+			<pos>0.38 0.72</pos>
+		</text>
+		<text name="info2" extra="true">
+			<text>Year of Release : 1980</text>
+			<pos>0.38 0.74</pos>
+		</text>
+		<text name="info3" extra="true">
+			<text>Units sold : 40 million</text>
+			<pos>0.38 0.76</pos>
+		</text>
+		<text name="info4" extra="true">
+						<text>Game & Watch (Japanese: Gēmu & Uotchi; called Tricotronic in West Germany and Austria) is a line of handheld electronic games produced by Nintendo from 1980 to 1991. Created by game designer Gunpei Yokoi, each Game & Watch features a single game to be played on an LCD screen in addition to a clock, an alarm, or both. This console inspired Nintendo to make the Game Boy. It was the earliest Nintendo product to gain major success.</text>
+			<pos>0.38 0.78</pos>
+			<size>0.40 0.20</size>
+			<lineSpacing>1.1</lineSpacing>
+		</text>
+	</view>
+
+	<view name="basic, detailed">
+		<image name="band1" extra="true">
+			<color>762F38</color>
+		</image>
+		<image name="band2" extra="true">
+			<color>CBCFD0</color>
+		</image>
+		<image name="band3" extra="true">
+			<color>BD2E39</color>
+		</image>
+		<image name="band4" extra="true">
+			<color>1A1718</color>
+		</image>
+	</view>
+</theme>
